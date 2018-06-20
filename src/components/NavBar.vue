@@ -59,7 +59,7 @@ export default {
         },
         {
           path: '/privacy',
-          icon: 'contact_mail',
+          icon: 'subject',
           label: 'Privacy Policy'
         }
       ]

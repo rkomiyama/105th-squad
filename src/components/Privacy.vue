@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1>Privacy Policy</h1>
+    <h4>Published July 2016</h4>
     <p>
       This privacy policy has been compiled to better serve those who are concerned with how their 
       'Personally Identifiable Information' (PII) is being used online. PII, as described in US 
